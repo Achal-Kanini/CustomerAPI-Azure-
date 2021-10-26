@@ -140,3 +140,27 @@ INFO  01:10:39 Customer login is invoked
 INFO  04:24:23 Customer login is invoked
 INFO  04:44:07 Customer login is invoked
 INFO  04:45:23 Customer login is invoked
+INFO  05:26:11 Application started. Press Ctrl+C to shut down.
+INFO  05:26:11 Hosting environment: Development
+INFO  05:26:11 Content root path: C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI
+INFO  05:26:22 Get Customer by 101 is invoked
+INFO  05:27:37 Customer login is invoked
+INFO  05:27:51 Customer login is invoked
+INFO  05:28:02 Customer login is invoked
+INFO  05:32:20 Application started. Press Ctrl+C to shut down.
+INFO  05:32:20 Hosting environment: Development
+INFO  05:32:20 Content root path: C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI
+INFO  05:32:29 Get Customer by 101 is invoked
+INFO  05:48:35 Customer login is invoked
+INFO  05:52:28 Customer login is invoked
+INFO  05:55:01 Customer login is invoked
+INFO  05:04:40 Customer login is invoked
+INFO  05:05:07 Get Customer by 101 is invoked
+INFO  10:50:29 REgister customer is invoked
+INFO  10:50:45 REgister customer is invoked
+INFO  10:51:09 REgister customer is invoked
+INFO  11:23:55 REgister customer is invoked
+INFO  10:14:14 Application started. Press Ctrl+C to shut down.
+INFO  10:14:14 Hosting environment: Development
+INFO  10:14:14 Content root path: C:\Users\Administrator\Documents\Project\flowerstore-v2-main\CustomerAPI\CustomerAPI
+INFO  10:14:56 Get Customer by 101 is invoked
